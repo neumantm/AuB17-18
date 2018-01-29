@@ -19,22 +19,16 @@ Mitschriften zur Vorlesung *AuB17/18* der Uni Stuttgart. Kein Anspruch auf Korre
 |12             |08.12.2017    |[klick](lectures-pdf/lecture12.pdf)    |Mehrband TMs
 |13             |12.12.2017    |[klick](lectures-pdf/lecture13.pdf)    |Universelle TM
 |14             |19.12.2017    |[klick](lectures-pdf/lecture14.pdf)    |Halteproblem
-|15             |10.01.2018    |[klick](lectures-pdf/lecture15.pdf)    |Rice, Semi-Entscheidbarkeit, Aufzählbarkeit, Reduktion
-|16             |              |                                       |
-|17             |              |                                       |
-|18             |              |                                       |
-|19             |              |                                       |
-|20             |              |                                       |
+|15             |09.01.2018    |[klick](lectures-pdf/lecture15.pdf)    |Rice, Semi-Entscheidbarkeit, Aufzählbarkeit, Reduktion
+|16             |12.01.2018    |[klick](lectures-pdf/lecture16.pdf)    |Allgemeine Halteproblem, weitere unent. Probleme
+|17             |16.01.2018    |[klick](lectures-pdf/lecture17.pdf)    |NP, Rucksackproblem
+|18             |19.01.2018    |[klick](lectures-pdf/lecture18.pdf)    |NP & P, Bin-Packing, TSP
+|19             |23.01.2018    |[klick](lectures-pdf/lecture19.pdf)    |NP vs. P
+|20             |26.01.2018    |-                                      |
 |21             |              |                                       |
 |22             |              |                                       |
 |23             |              |                                       |
 |24             |              |                                       |
-<!-- |25            |              |                                       | -->
-<!-- |26            |              |                                       | -->
-<!-- |27            |              |                                       | -->
-<!-- |28            |              |                                       | -->
-<!-- |29            |              |                                       | -->
-<!-- |30            |              |                                       | -->
 
 
 ## Mitmachen
